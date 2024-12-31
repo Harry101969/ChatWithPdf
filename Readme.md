@@ -2,6 +2,8 @@
 
 ChatWithPDF is an AI-powered web application that allows users to upload a PDF and interact with its content through a chat interface. This application uses LangChain for natural language processing, Pinecone for vector storage, Cloudinary for PDF file management, and MongoDB to store metadata. The project is built with a React frontend and a Node.js backend.
 
+![alt text](<Screenshot 2024-12-31 092147.png>)
+
 ---
 
 ## Features
